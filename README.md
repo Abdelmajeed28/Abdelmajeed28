@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <p>
-I'm learning Full Stack MEARN 
+I'm a Full-Stack Developer 
 </p>
 
 
